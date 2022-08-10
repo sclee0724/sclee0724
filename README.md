@@ -28,7 +28,9 @@
 
 <div align="left">
 <h2 align="left">📆 Experience</h2>
-- IT정보공학과 재학중
+<ul>
+  <li>IT지능정보공학과 재학중</li>
+</ul>
 
 <h2 align="left">☁️ Reach me out on(SNS)</h2>
 <a href="https://www.facebook.com/profile.php?id=100009485931387" target="_blank">
