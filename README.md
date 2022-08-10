@@ -26,7 +26,7 @@
 <Strong></Strong><br><br><br>
 
 
-<h2 align="center">☁️Reach me out on(SNS)☁️</h2><br>
+<h2 align="center">☁️Reach me out on(SNS)</h2><br>
 <a href="https://www.facebook.com/profile.php?id=100009485931387" target="_blank">
  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 </a>
@@ -41,9 +41,10 @@
 </a>
 
  
-<h2 align="center">🏆Github Stack🏆</h2><br>
+<h2 align="center">📗Github Stack</h2><br>
 <img align="middle" src ="https://github-readme-stats.vercel.app/api?username=sclee0724&show_icons=true&theme=radical"/>
 
+<h2 align="center">💡 Algorithm</h2><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sclee0724)](https://solved.ac/sclee0724/)
 
 
