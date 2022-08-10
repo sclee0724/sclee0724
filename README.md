@@ -27,15 +27,6 @@
 </div>
 
 <div align="left">
-<h2 align="left">📆 Experience</h2>
-<ul>
-  <li>IT지능정보공학과 재학중</li>
-</ul>
-  
-<h2 align="left">📽️ Project</h2>
-<ul>
-  <li><a href="https://github.com/sclee0724/Whale_Fin_Image_Classification_Project">이미지 분류: 고래 지느리러미 사진을 통해 무슨 종의 고래인지 판별하는 프로그램</a></li>
-</ul>
 <h2 align="left">☁️ Reach me out on(SNS)</h2>
 <a href="https://www.facebook.com/profile.php?id=100009485931387" target="_blank">
  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
@@ -50,6 +41,15 @@
  <img src="https://img.shields.io/badge/Kakao Talk-yellow?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 </a><br>
 
+<h2 align="left">📆 Experience</h2>
+<ul>
+  <li>IT지능정보공학과 재학중</li>
+</ul>
+  
+<h2 align="left">📽️ Project</h2>
+<ul>
+  <li><a href="https://github.com/sclee0724/Whale_Fin_Image_Classification_Project">이미지 분류: 고래 지느리러미 사진을 통해 무슨 종의 고래인지 판별하는 프로그램</a></li>
+</ul>
  
 <h2 align="left">📗 Github Stack</h2>
 <img align="left" src ="https://github-readme-stats.vercel.app/api?username=sclee0724&show_icons=true&theme=radical"/><br><br><br><br><br><br><br><br><br>
