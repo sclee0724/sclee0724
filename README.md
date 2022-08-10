@@ -44,7 +44,7 @@
 <h2 align="center">🏆Github Stack🏆</h2><br>
 <img align="middle" src ="https://github-readme-stats.vercel.app/api?username=sclee0724&show_icons=true&theme=radical"/>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sclee0724)](https://solved.ac/sclee0724/)
 
 
 
