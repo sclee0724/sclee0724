@@ -12,7 +12,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sclee0724&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-<h2 align="center">Thechnology Stack</h2><br>
+<h2 align="center">⭐Thechnology Stack</h2><br>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
