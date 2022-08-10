@@ -1,3 +1,11 @@
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sclee0724)](https://github.com/sclee0724/github-readme-stats)
+
+<br/>
+<br/>
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sclee0724&show_icons=true&theme=radical)
 <br/>
 <br/>
