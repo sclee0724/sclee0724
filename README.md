@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python"/><br><br>
+<img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/><br><br>
 <Strong>☁️SNS list☁️</Strong><br><br>
     <a href="https://pgmjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://www.facebook.com/profile.php?id=100009485931387" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
