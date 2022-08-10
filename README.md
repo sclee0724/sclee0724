@@ -26,9 +26,19 @@
 <Strong></Strong><br><br><br>
 
 
-<h2 align="center">☁️SNS list☁️</h2><br>
-<a href="https://www.facebook.com/profile.php?id=100009485931387" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/jade__scl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
+<h2 align="center">☁️Reach me out on(SNS)☁️</h2><br>
+<a href="https://www.facebook.com/profile.php?id=100009485931387" target="_blank">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/jade__scl/">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+<a href="mailto: sclee0724@gmail.com">
+ <img src="https://img.shields.io/badge/-sclee0724-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sclee0724@gmail.com"/>
+</a>
+<a href="http://qr.kakao.com/talk/d7Rt3Z6OSvp.Kw.Dj7Rgbkl5h8k-/">
+ <img src="https://img.shields.io/badge/Kakao Talk-yellow?style=flat-square&logo=KakaoTalk&logoColor=white"/>
+</a>
 
  
 <h2 align="center">🏆Github Stack🏆</h2><br>
@@ -36,9 +46,7 @@
 
 
 
-<h2 align="center">Reach me out on</h2>
-<a href="mailto: sclee0724@gmail.com">
- <img src="https://img.shields.io/badge/-sclee0724-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sclee0724@gmail.com"/>
-</a>
-</div>
+
+
+
 
