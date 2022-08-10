@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask"/><br>
+<img src="https://img.shields.io/badge/-PyTorch-orange?style=flat-square&logo=PyTorch"/>
 <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/><br><br>
