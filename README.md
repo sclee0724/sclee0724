@@ -50,7 +50,8 @@
 </ul>
  
 <h2 align="left">📗 Github Stack</h2>
-<img align="left" src ="https://github-readme-stats.vercel.app/api?username=sclee0724&show_icons=true&theme=radical"/><br><br><br><br><br><br><br><br><br>
+<img align="left" src ="https://github-readme-stats.vercel.app/api?username=sclee0724&show_icons=true&theme=radical"/>
+<br><br><br><br><br><br><br><br><br>
 
 <h2 align="left">💡 Algorithm</h2>
 
