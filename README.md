@@ -48,7 +48,11 @@
 <ul>
   <li><a href="https://github.com/sclee0724/Whale_Fin_Image_Classification_Project">이미지 분류: 고래 지느리러미 사진을 통해 무슨 종의 고래인지 판별하는 프로그램</a></li>
 </ul>
- 
+
+<h2 align="left">🪴 Toy</h2>
+<ul>
+  <li>ET-Board 컨텐츠 마이크로파이썬으로 변환</li>
+</ul>
 <h2 align="left">📗 Github Stack</h2>
 <img align="left" src ="https://github-readme-stats.vercel.app/api?username=sclee0724&show_icons=true&theme=radical"/>
 <br><br><br><br><br><br><br><br><br>
