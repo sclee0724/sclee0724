@@ -39,7 +39,7 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 <a href="mailto: sclee0724@gmail.com">
- <img src="https://img.shields.io/badge/-sclee0724-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sclee0724@gmail.com"/>
+ <img src="https://img.shields.io/badge/-sclee0724-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sclee0724@gmail.com/">
 </a>
 <a href="http://qr.kakao.com/talk/d7Rt3Z6OSvp.Kw.Dj7Rgbkl5h8k-/">
  <img src="https://img.shields.io/badge/Kakao Talk-yellow?style=flat-square&logo=KakaoTalk&logoColor=white"/>
