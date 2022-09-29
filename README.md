@@ -28,6 +28,7 @@
 <ul>
   <li>IT지능정보공학과 재학중</li>
   <li>한국공학기술연구원 단기알바 7/25 ~ </li>
+  <li>전북대 학부연구생(인공지능 영상처리) 10/4 ~ <li>
 </ul>
 
 <h2 align="left">☁️ Reach me out on(SNS)</h2>
