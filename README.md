@@ -26,7 +26,7 @@
 <div align="left">
 <h2 align="left">📆 Experience</h2>
 <ul>
-  <li>IT지능정보공학과 재학중</li>
+  <li>컴퓨터인공지능학부 재학중</li>
   <li>한국공학기술연구원 단기알바 7/25 ~ 8/26</li>
   <li>전북대 학부연구생(인공지능 영상처리) 10/4 ~ </li>
 </ul>
