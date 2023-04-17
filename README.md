@@ -32,8 +32,8 @@
 </ul>
 
 <h2 align="left">☁️ Reach me out on(SNS)</h2>
-<a href="https://www.facebook.com/profile.php?id=100009485931387" target="_blank">
- <img src=/>
+<a href="https://www.facebook.com" target="_blank">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/jade__scl/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
