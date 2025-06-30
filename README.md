@@ -29,7 +29,7 @@
   <li>전북대학교 컴퓨터인공지능학부 졸업</li>
   <li>한국공학기술연구원 단기알바 2021/7/25 ~ 2021/8/26</li>
   <li>전북대학교 학부연구생(시간지능처리 연구실) 2022/10/4 ~ 2024/12/21</li>
-  <li>중앙대학교 석사과정(Ultra Intelligent Comouting/Communication Lab) 2025/03/03 ~</li>
+  <li>중앙대학교 석사과정(UCLab) 2025/03/03 ~</li>
 </ul>
 
 <h2 align="left">☁️ Reach me out on(SNS)</h2>
